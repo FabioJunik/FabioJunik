@@ -1,4 +1,4 @@
-### E ai, eu sou o Fábio Junik 😎👋
+### E ai, eu sou o Fábio Junik 👋, desenvolvedor web - Front End😎
 
 -💻 Trabalho com front-end .
 
