@@ -2,7 +2,7 @@
 
 -💻 Trabalho com front-end .
 
--✍🏽 Actualmente estou estudando React Js e PHP
+-✍🏽 Actualmente estou estudando React Js
 
 <div align="center">
   <a href="https://github.com/FabioJunik">
