@@ -2,7 +2,8 @@
 
 -💻 Trabalho com front End.
 
--✍🏽 Actualmente estou estudando TypeScript, React.js e Next.js
+-✍🏽 Actualmente estou estudando NodeJS
+-💪🏽 E praticando TypeScript, React.js e Next.js
 
 <div align="center">
   <a href="https://github.com/FabioJunik">
