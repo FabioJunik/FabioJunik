@@ -1,10 +1,8 @@
 ### E ai, eu sou o Fábio Junik 👋, desenvolvedor web - Front End😎
 
--💻 Trabalho com front End.
+-💻 Trabalho com Back End.
 
--✍🏽 Actualmente estou estudando NodeJS.
-
--💪🏽 E praticando TypeScript, React.js e Next.js
+-✍🏽 Actualmente estou estudando Testes no back & Figma.
 
 <div align="center">
   <a href="https://github.com/FabioJunik">
