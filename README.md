@@ -1,8 +1,8 @@
-### E ai, eu sou o Fábio Junik 👋, desenvolvedor web - Front End😎
+### E ai, eu sou o Fábio Junik 👋, desenvolvedor web - Backend 😎
 
--💻 Trabalho com Back End.
+-💻 Trabalho com Backend.
 
--✍🏽 Actualmente estou estudando Testes no back & Figma.
+-✍🏽 Actualmente estou estudando Figma.
 
 <div align="center">
   <a href="https://github.com/FabioJunik">
