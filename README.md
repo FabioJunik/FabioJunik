@@ -1,4 +1,4 @@
-### E ai, eu sou o Fábio Junik 👋, desenvolvedor web - Backend 😎
+### E ai, eu sou o Fábio Junik 👋, desenvolvedor web - Fullstack 😎
 
 -💻 Trabalho com Backend.
 
