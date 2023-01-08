@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff&height=100&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0050b2&height=100&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8f00ff&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+Eu+sou+o+Fábio+Junik;And+I+am+19+years+old;I+am+from+Angola;I+am+a+web+developer;And+working+with+backend;Be+welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+I+am+Fábio+Junik;And+I+am+19+years+old;I+am+from+Angola;I+am+a+web+developer;And+working+with+backend;Be+welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FabioJunik&show_icons=true&count_private=true&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="Fabio Junik" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioJunik&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FabioJunik&show_icons=true&count_private=true&hide_border=true&title_color=0050b2&icon_color=0050b2&text_color=c9d1d9&bg_color=0d1117" alt="Fabio Junik" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioJunik&layout=compact&hide_border=true&title_color=0050b2&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -25,3 +25,5 @@
   <a href = "mailto:fabiojunik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0050b2&height=100&section=footer"/>
