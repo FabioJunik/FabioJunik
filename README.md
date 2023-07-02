@@ -20,7 +20,6 @@
   <img align="center" alt="Fabio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Fabio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
-
 <div> 
 
   ##
@@ -30,5 +29,9 @@
   <a href = "mailto:fabiojunik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
 </div>
-
+<div>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=fabiojunik&label=Profile%20Views&color=1&icon=8&pretty=false" />
+  </a>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0050b2&height=100&section=footer"/>
