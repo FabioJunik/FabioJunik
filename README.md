@@ -12,7 +12,7 @@
 <div/>
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,go,nodejs,nestjs,nextjs,html,css,docker,mysql,postgres,redis,gi,vitestt&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,nodejs,nestjs,nextjs,docker,mysql,postgres,redis,gi,vitestt&theme=dark)](https://skillicons.dev)
 
   ##
  
